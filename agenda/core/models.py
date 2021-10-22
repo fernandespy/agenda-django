@@ -17,3 +17,10 @@ class Meta:
 
 def __str__(self):
     return self.titulo
+
+
+def get_evento_atrasado(self):
+    if self.data_evento < datetime.now():
+        return True
+    else:
+        return False
