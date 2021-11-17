@@ -1,21 +1,21 @@
-# Agenda de Eventos
+# Schedule of events
 
-## Projeto Agenda com Django
+## Agenda Project with Django
 
-**_Inicio_**
+**_Start_**
 
-> O projeto foi iniciado no Django, usando o _models.py_ foi adicionado os dados dos eventos e feita as funções de listagem de eventos, e através do _django-admin_ cadastrado usuários diferentes.
+> The project was started in Django, using _models.py_ added the event data and made the event listing functions, and through _django-admin_ registered different users.
+ 
+**_Middle_**
 
-**_Meio_**
+> In the middle of the project, templates were made to use _urls_ and html files for adding, editing, updating and deleting events (CRUD), without the need to access _admin_, which allows for greater data security
 
-> No meio do projeto, foi feito os templates para usar as _urls_ e os arquivos html para adição, edição, atualização e exclusão dos eventos, sem a necessidade de acessar o _admin_, o que permite uma segurança maior dos dados
+**_Finishing_**
 
-**_Finalizando_**
+> In the end I was able to create a way to list the events using _JsonResponse_ and error handling was done with Http404.
 
-> No final pude criar uma forma de listar os eventos usando _JsonResponse_ e foi feito tratamento de erros com Http404.
+**_Considerations_**
 
-**_Considerações_**
-
-> O projeto foi feito pela Digital Innovation One. Pelo Rafael Galleani. Pude aprender os fundamentos e o que é necessário para usar o Django, e com isso, adquirir novos conhecimentos sobre Python!
+> The project was made by Digital Innovation One. By Rafael Galleani. I was able to learn the fundamentals and what is needed to use Django, and with that, acquire new knowledge about Python!
 
 **_Enjoy_**
